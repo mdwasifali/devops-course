@@ -1,1 +1,2 @@
-Hello world from Seattle. The best part of living in Seattle is the lush greenary around.
+Hello world from Seattle. The best part of living in Seattle is the lush greenary around. 
+I am also learning Python.
